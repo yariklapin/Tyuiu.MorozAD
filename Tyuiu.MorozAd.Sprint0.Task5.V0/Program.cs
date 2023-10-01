@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Tyuiu.MorozAd.Sprint0.Task4.V0.lib;
 
-namespace Tyuiu.MorozAd.Sprint0.Task5.V0
+namespace Tyuiu.MorozAd.Sprint0.Task4.V0
 {
     class Program
     {
